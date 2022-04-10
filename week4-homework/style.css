@@ -1,0 +1,28 @@
+﻿* {
+    margin: 7px;
+    padding: 0;
+    user-select: none;
+    box-sizing: border-box;
+    color: salmon;
+}
+
+
+
+
+form {
+    background-color: linen;
+    border: solid salmon 3px;
+    border-radius: 2%;
+}
+
+
+#button {
+    background-color: darkgrey;
+    border: solid salmon 3px;
+    border-radius: 2%;
+    margin: 20px;
+}
+
+    #button:hover {
+        background-color: black;
+    }
